@@ -1,4 +1,4 @@
-# student
+# Student Crud Operation Using VueJS
 
 ## Project setup
 ```
